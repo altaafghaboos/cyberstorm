@@ -109,4 +109,18 @@ footer{
 	font-size: 1.2rem;
 	font-family: "Spectral", serif;
 	font-weight: 400;
+	padding: 4rem, 2rem;
+	border-top: 1px solid #1a2333;
+}
+
+.footer-email{
+	color: #00a2ff;
+	text-decoration: none;
+	font-weight: 500;
+	transition: color 0.2s ease, text-decoration 0.2s ease;
+}
+
+.footer-email: hover{
+	color: #33b5ff;
+	text-decoration: none;
 }
